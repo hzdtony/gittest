@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 banana
 apple
 orange
 peach
 grape
+=======
+>>>>>>> berries
